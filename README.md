@@ -27,9 +27,11 @@ Feature:
 12. 8189fs wifi driver pre-installed
 13. sunxi_gpio, sunxi_ir_rx pre-installed
 14. USB cam supported
-15. Marvel ... :)
+15. Netflix and amazonprime pre-installed
 
 Enjoy . . . 
+
+M A R V E L . . .
 
 if you really think my work is good and you enjoy i am accepting donation for my beers ;)
 
