@@ -30,6 +30,7 @@ Feature:
 13. sunxi_gpio, sunxi_ir_rx pre-installed
 14. USB cam supported
 15. Netflix and amazonprime pre-installed
+16. onboard button is working as sleep and awakemode. long press button will lead to menu of shutdown. same button longpress will also help to tuen on device.
 
 Enjoy . . . 
 
