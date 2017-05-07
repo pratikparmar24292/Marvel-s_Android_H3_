@@ -11,6 +11,8 @@ MArvel's Custom ROM Android For OpiPc and OpiPc+  Boards
 
 4. wait... and successfully booted. :)
 
+5. First time you need to connect usb mouse and keyboard to configure wifi. then cetusplay remote will automatically coonected         everytime.
+
 Feature:
 
 1.  Working Google Play store and 1Mobile Market
