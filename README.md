@@ -3,7 +3,7 @@ MArvel's Custom ROM Android For OpiPc and OpiPc+  Boards
 
 
 1. Downlaod image from below link:
-   www.google.com
+   goo.gl/VE852v
    
 2. flash image to sdcard using image flash tool.(Win32 disk manager, imgusb, Apple-pi Baker, dd command)
 
