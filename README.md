@@ -36,9 +36,7 @@ Enjoy . . .
 
 M A R V E L . . .
 
-if you really think my work is good and you enjoy i am accepting donation for my beers ;)
 
-https://www.paypal.me/Jethva?locale.x=en_IN&country.x=IN
 
 Also app is available for donation in os.
 Donate_for_beers 
