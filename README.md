@@ -3,7 +3,7 @@ MArvel's Custom ROM Android For OpiPc and OpiPc+  Boards
 
 
 1. Downlaod image from below link:
-   https://goo.gl/VE852v
+   https://shorturl.at/aezJR
    
 2. flash image to sdcard using image flash tool.(Win32 disk manager, imgusb, Apple-pi Baker, dd command)
 
@@ -11,7 +11,7 @@ MArvel's Custom ROM Android For OpiPc and OpiPc+  Boards
 
 4. wait... and successfully booted. :)
 
-5. First time you need to connect usb mouse and keyboard to configure wifi. then cetusplay remote will automatically coonected         everytime.
+5. First time you need to connect usb mouse and keyboard to configure wifi. then cetusplay remote will automatically conected everytime.
 
 Feature:
 
@@ -38,5 +38,4 @@ M A R V E L . . .
 
 
 
-Also app is available for donation in os.
-Donate_for_beers 
+
